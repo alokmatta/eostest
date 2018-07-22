@@ -8,6 +8,7 @@ Dialogflow used for Voice
 
 Intents Used - With English & Korean versions
 
+<pre>
 Search intents
  bitcoinbalance
  Default Fallback Intent
@@ -18,3 +19,4 @@ Search intents
  trade2confirm
  update
  wanttosellbitcoin
+ </pre>
