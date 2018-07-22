@@ -20,3 +20,6 @@ Search intents
  update
  wanttosellbitcoin
  </pre>
+
+
+Link to Execution Model https://docs.google.com/spreadsheets/d/1YPfJ19rJiAqJbkKI0e8b1tFk8yUvMsoGMFG1R1JzBN4/edit?usp=sharing
